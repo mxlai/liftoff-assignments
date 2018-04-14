@@ -28,4 +28,4 @@ Django ORM
 PostgreSQL
 
 ### What I'll Have to Learn
-I anticipate that I'll have to integrate a public API or utilize web scraping in order to retrieve current pricing information from the various retailers I'll be pitting against east other. I have no experience with the Django framework or Django ORM, but I plan to learn how to retain user data and map specific product information to personal watchlists. If time allows, adding interactive features with JavaScript will result in a more positive user experience.
+I anticipate that I'll have to integrate a public API or utilize web scraping in order to retrieve current pricing information from the various retailers I'll be pitting against each other. I have no experience with the Django framework or Django ORM, but I plan to learn how to use them in order to retain user data and map specific product information to personal watchlists. If time allows, adding interactive features with JavaScript will result in a more positive user experience.
