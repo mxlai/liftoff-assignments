@@ -2,6 +2,7 @@
 
 ## Wireframes
 [Wireframes](https://github.com/mxlai/liftoff-assignments/blob/master/P3-Project_Planning/wireframes.png)
+
 The linked image includes 4 wireframes:
 * Login page
 * Search page
